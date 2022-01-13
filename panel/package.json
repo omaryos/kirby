@@ -13,7 +13,7 @@
     "test": "cypress run"
   },
   "dependencies": {
-    "@linusborg/vue-simple-portal": "^0.1.4",
+    "@linusborg/vue-simple-portal": "^0.1.5",
     "autosize": "^4.0.2",
     "dayjs": "^1.9.6",
     "prosemirror-commands": "^1.1.4",
