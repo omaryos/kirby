@@ -23,7 +23,7 @@
     "prosemirror-model": "^1.12.0",
     "prosemirror-schema-list": "^1.1.4",
     "prosemirror-view": "^1.16.3",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vue-router": "^3.4.9",
     "vuedraggable": "^2.24.3",
     "vuelidate": "^0.7.6",
